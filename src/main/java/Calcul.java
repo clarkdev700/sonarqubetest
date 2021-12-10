@@ -29,8 +29,8 @@ public final class Calcul {
      */
     public static int maFonction(final int a, final int b) {
         final int nbre = 10;
-        if ( b >= nbre ) {
-            return a / b;
+        if (b >= nbre) {
+            return a/b;
         }
         return b;
     }
