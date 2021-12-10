@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="C:\Miage306\exercice2\src\main\java\Calcul.java">
+<error line="32" column="13" severity="error" message="Il y a une espace de trop après  &apos;(&apos;." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="32" column="23" severity="error" message="Il y a une espace de trop avant &apos;)&apos;." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+</file>
+</checkstyle>
