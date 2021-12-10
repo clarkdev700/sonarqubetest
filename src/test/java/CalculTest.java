@@ -47,16 +47,7 @@ public class CalculTest {
         assertEquals(expected, Calcul.maFonction(a, b));
     }
 
-    /**
-     * mafontion avec b inferieur à 10. retrun b
-     */
-    @Test
-    public void testMaFonctionAvecBInferieurADix() {
-        final int a = 10;
-        final int b = 5;
-        final int expected = 5;
-        assertEquals(expected, Calcul.maFonction(a, b));
-    }
+
 
     /**
      * Division par 0. return une exception capturé
